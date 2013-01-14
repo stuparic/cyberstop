@@ -32,4 +32,4 @@ public class MainActivity extends Activity {
 
 }
 
-//bolji komentar
+//bolji komentar novi
