@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.support.v4.app.NavUtils;
 import android.view.MenuItem;
 import android.widget.TextView;
-//Komentar najnoviji
+//Jos noviji komentar
 //komentar novi
 public class DisplayMessageActivity extends Activity {
 
